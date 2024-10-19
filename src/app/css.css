@@ -1,0 +1,9 @@
+html, body {
+  height: 400px;
+  width: 800px;
+  margin: 10px;
+}
+
+.map-container {
+  height: 400px;
+}
